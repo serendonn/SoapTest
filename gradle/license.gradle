@@ -1,0 +1,7 @@
+license {
+    header rootProject.file('LICENSE')
+    includes([
+        '**/*.java',
+        '**/*.groovy',
+    ])
+}
